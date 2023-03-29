@@ -1,6 +1,10 @@
-<div class="heading text-center">
+{{-- <div class="heading text-center">
     <h1 class="mb--18">Adds On Newspaper</h1>
     <hr class="delimeter mx-auto mb--22">
+</div> --}}
+<div class="section-header text-center" id="dev" >
+    <!-- <p>Our Services</p> -->
+    <h2>Find JOBS IN NEWSPAPER</h2>
 </div>
     @if (isset($newsbanner))
     <section class="section-padding">
