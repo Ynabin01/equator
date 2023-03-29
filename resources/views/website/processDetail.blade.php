@@ -7,7 +7,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="subheader-content">
-                        <h1 class="page-title text-white fw-600">Shalmani Overseas.</h1>
+                        <h1 class="page-title text-white fw-600">Equator International</h1>
                         <ul class="custom-flex breadcrumb">
                             <li><a href="/">Home</a></li>
                             <li>{{$normal->caption}}</li>
