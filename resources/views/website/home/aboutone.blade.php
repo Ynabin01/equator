@@ -20,12 +20,12 @@
 <div class="about wow fadeInUp" data-wow-delay="0.1s">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-lg-5 col-md-6">
+            {{-- <div class="col-lg-5 col-md-6">
                 <div class="about-img">
                     <img src="{{ $about->banner_image ?? '' }}" alt="Image">
                 </div>
-            </div>
-            <div class="col-lg-7 col-md-6">
+            </div> --}}
+            <div class="col-lg-12 col-md-6">
                 <div class="section-header text-left">
                     <p>About us</p>
                     <h2>{{ $about->caption ?? '' }}</h2>
